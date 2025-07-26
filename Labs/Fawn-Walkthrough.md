@@ -19,7 +19,7 @@ Status: Completed by watching a walkthrough video
 
 1: Scan with nmap 
 
-- nmap -sV -sS -O -p21 ( target IP ) 
+ -nmap -sV -sS -O -p21 ( target IP ) 
 
 * Findings: 
 port 21 (ftp) open

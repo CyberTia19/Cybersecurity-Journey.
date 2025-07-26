@@ -53,7 +53,8 @@ I downloaded the flag
 I got the flag ! 
 
 
-💡 What I Learned
+💡 What I Learned: 
+
 How to use ftp for anonymous login
 
 How to explore and download files from an FTP server
@@ -61,7 +62,7 @@ How to explore and download files from an FTP server
 The basics of enumeration with nmap
 
 
-🧠 Note
+🧠 Note:
 I completed this box by following a walkthrough video.
 I made sure to understand each step and took notes so I can try solving future boxes on my own.
 

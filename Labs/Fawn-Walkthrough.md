@@ -28,7 +28,7 @@ port 21 (ftp) open
 
 2: Connecting to FTP ( anonymous login) 
 
-- ftp ( IP ) 
+-ftp ( IP ) 
 
 * Findings: 
 was able to login as anonymous ,listed the files using ( ls ) , and found a file called (flag.txt)
@@ -37,7 +37,7 @@ was able to login as anonymous ,listed the files using ( ls ) , and found a file
 
 3: Downloading the flag 
 
- - get flag.txt
+-get flag.txt
 
 * Findings:
 
@@ -47,7 +47,7 @@ I downloaded the flag
 
 4: Final output 
 
- - cat flag.txt
+-cat flag.txt
 
 * Findings:
 I got the flag ! 

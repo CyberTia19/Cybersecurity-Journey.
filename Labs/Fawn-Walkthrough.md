@@ -11,8 +11,8 @@ Status: Completed by watching a walkthrough video
 
 
 🧰 Tools Used :
- nmap
- ftp
+* nmap
+* ftp
  
 
 🪜 Step-by-Step Walkthrough :

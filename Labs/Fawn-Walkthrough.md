@@ -8,9 +8,12 @@ Date: July 26,2025
 
 Status: Completed by watching a walkthrough video
 
+
+
 🧰 Tools Used :
  nmap
  ftp
+ 
 
 🪜 Step-by-Step Walkthrough :
 
@@ -19,28 +22,35 @@ Status: Completed by watching a walkthrough video
 nmap -sV -sS -O -p21 ( target IP ) 
 
 * Findings: 
-port 21 (ftp) open 
+port 21 (ftp) open
+
+
 
 2: Connecting to FTP ( anonymous login) 
 ftp ( IP ) 
 
 * Findings: 
-was able to login as anonymous ,listed the files using ( ls ) , and found a file called (flag.txt) 
+was able to login as anonymous ,listed the files using ( ls ) , and found a file called (flag.txt)
+
+
 
 3: Downloading the flag 
 
 get flag.txt
 
-*Findings:
+* Findings:
 
 I downloaded the flag
+
+
 
 4: Final output 
 
 cat flag.txt
 
-*Findings:
+* Findings:
 I got the flag ! 
+
 
 💡 What I Learned
 How to use ftp for anonymous login
@@ -48,6 +58,7 @@ How to use ftp for anonymous login
 How to explore and download files from an FTP server
 
 The basics of enumeration with nmap
+
 
 🧠 Note
 I completed this box by following a walkthrough video.
